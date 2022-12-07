@@ -1,2 +1,2 @@
 # Lang-HL-Syntax
-An another compiler for HL
+Another compiler for HL
